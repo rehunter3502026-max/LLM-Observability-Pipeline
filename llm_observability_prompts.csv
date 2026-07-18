@@ -1,0 +1,401 @@
+prompt_id,category,difficulty,prompt
+1,General QA,Easy,Answer the following general knowledge question #1 with a concise explanation.
+2,General QA,Easy,Answer the following general knowledge question #2 with a concise explanation.
+3,General QA,Easy,Answer the following general knowledge question #3 with a concise explanation.
+4,General QA,Easy,Answer the following general knowledge question #4 with a concise explanation.
+5,General QA,Easy,Answer the following general knowledge question #5 with a concise explanation.
+6,General QA,Easy,Answer the following general knowledge question #6 with a concise explanation.
+7,General QA,Easy,Answer the following general knowledge question #7 with a concise explanation.
+8,General QA,Easy,Answer the following general knowledge question #8 with a concise explanation.
+9,General QA,Easy,Answer the following general knowledge question #9 with a concise explanation.
+10,General QA,Easy,Answer the following general knowledge question #10 with a concise explanation.
+11,General QA,Easy,Answer the following general knowledge question #11 with a concise explanation.
+12,General QA,Easy,Answer the following general knowledge question #12 with a concise explanation.
+13,General QA,Easy,Answer the following general knowledge question #13 with a concise explanation.
+14,General QA,Easy,Answer the following general knowledge question #14 with a concise explanation.
+15,General QA,Easy,Answer the following general knowledge question #15 with a concise explanation.
+16,General QA,Easy,Answer the following general knowledge question #16 with a concise explanation.
+17,General QA,Easy,Answer the following general knowledge question #17 with a concise explanation.
+18,General QA,Easy,Answer the following general knowledge question #18 with a concise explanation.
+19,General QA,Easy,Answer the following general knowledge question #19 with a concise explanation.
+20,General QA,Easy,Answer the following general knowledge question #20 with a concise explanation.
+21,General QA,Medium,Answer the following general knowledge question #21 with a concise explanation.
+22,General QA,Medium,Answer the following general knowledge question #22 with a concise explanation.
+23,General QA,Medium,Answer the following general knowledge question #23 with a concise explanation.
+24,General QA,Medium,Answer the following general knowledge question #24 with a concise explanation.
+25,General QA,Medium,Answer the following general knowledge question #25 with a concise explanation.
+26,General QA,Medium,Answer the following general knowledge question #26 with a concise explanation.
+27,General QA,Medium,Answer the following general knowledge question #27 with a concise explanation.
+28,General QA,Medium,Answer the following general knowledge question #28 with a concise explanation.
+29,General QA,Medium,Answer the following general knowledge question #29 with a concise explanation.
+30,General QA,Medium,Answer the following general knowledge question #30 with a concise explanation.
+31,General QA,Medium,Answer the following general knowledge question #31 with a concise explanation.
+32,General QA,Medium,Answer the following general knowledge question #32 with a concise explanation.
+33,General QA,Medium,Answer the following general knowledge question #33 with a concise explanation.
+34,General QA,Medium,Answer the following general knowledge question #34 with a concise explanation.
+35,General QA,Medium,Answer the following general knowledge question #35 with a concise explanation.
+36,General QA,Medium,Answer the following general knowledge question #36 with a concise explanation.
+37,General QA,Medium,Answer the following general knowledge question #37 with a concise explanation.
+38,General QA,Medium,Answer the following general knowledge question #38 with a concise explanation.
+39,General QA,Medium,Answer the following general knowledge question #39 with a concise explanation.
+40,General QA,Medium,Answer the following general knowledge question #40 with a concise explanation.
+41,General QA,Hard,Answer the following general knowledge question #41 with a concise explanation.
+42,General QA,Hard,Answer the following general knowledge question #42 with a concise explanation.
+43,General QA,Hard,Answer the following general knowledge question #43 with a concise explanation.
+44,General QA,Hard,Answer the following general knowledge question #44 with a concise explanation.
+45,General QA,Hard,Answer the following general knowledge question #45 with a concise explanation.
+46,General QA,Hard,Answer the following general knowledge question #46 with a concise explanation.
+47,General QA,Hard,Answer the following general knowledge question #47 with a concise explanation.
+48,General QA,Hard,Answer the following general knowledge question #48 with a concise explanation.
+49,General QA,Hard,Answer the following general knowledge question #49 with a concise explanation.
+50,General QA,Hard,Answer the following general knowledge question #50 with a concise explanation.
+51,General QA,Hard,Answer the following general knowledge question #51 with a concise explanation.
+52,General QA,Hard,Answer the following general knowledge question #52 with a concise explanation.
+53,General QA,Hard,Answer the following general knowledge question #53 with a concise explanation.
+54,General QA,Hard,Answer the following general knowledge question #54 with a concise explanation.
+55,General QA,Hard,Answer the following general knowledge question #55 with a concise explanation.
+56,General QA,Hard,Answer the following general knowledge question #56 with a concise explanation.
+57,General QA,Hard,Answer the following general knowledge question #57 with a concise explanation.
+58,General QA,Hard,Answer the following general knowledge question #58 with a concise explanation.
+59,General QA,Hard,Answer the following general knowledge question #59 with a concise explanation.
+60,General QA,Hard,Answer the following general knowledge question #60 with a concise explanation.
+61,Coding,Easy,Solve coding problem #1 in Python and explain the approach.
+62,Coding,Easy,Solve coding problem #2 in Python and explain the approach.
+63,Coding,Easy,Solve coding problem #3 in Python and explain the approach.
+64,Coding,Easy,Solve coding problem #4 in Python and explain the approach.
+65,Coding,Easy,Solve coding problem #5 in Python and explain the approach.
+66,Coding,Easy,Solve coding problem #6 in Python and explain the approach.
+67,Coding,Easy,Solve coding problem #7 in Python and explain the approach.
+68,Coding,Easy,Solve coding problem #8 in Python and explain the approach.
+69,Coding,Easy,Solve coding problem #9 in Python and explain the approach.
+70,Coding,Easy,Solve coding problem #10 in Python and explain the approach.
+71,Coding,Easy,Solve coding problem #11 in Python and explain the approach.
+72,Coding,Easy,Solve coding problem #12 in Python and explain the approach.
+73,Coding,Easy,Solve coding problem #13 in Python and explain the approach.
+74,Coding,Easy,Solve coding problem #14 in Python and explain the approach.
+75,Coding,Easy,Solve coding problem #15 in Python and explain the approach.
+76,Coding,Easy,Solve coding problem #16 in Python and explain the approach.
+77,Coding,Easy,Solve coding problem #17 in Python and explain the approach.
+78,Coding,Easy,Solve coding problem #18 in Python and explain the approach.
+79,Coding,Easy,Solve coding problem #19 in Python and explain the approach.
+80,Coding,Easy,Solve coding problem #20 in Python and explain the approach.
+81,Coding,Medium,Solve coding problem #21 in Python and explain the approach.
+82,Coding,Medium,Solve coding problem #22 in Python and explain the approach.
+83,Coding,Medium,Solve coding problem #23 in Python and explain the approach.
+84,Coding,Medium,Solve coding problem #24 in Python and explain the approach.
+85,Coding,Medium,Solve coding problem #25 in Python and explain the approach.
+86,Coding,Medium,Solve coding problem #26 in Python and explain the approach.
+87,Coding,Medium,Solve coding problem #27 in Python and explain the approach.
+88,Coding,Medium,Solve coding problem #28 in Python and explain the approach.
+89,Coding,Medium,Solve coding problem #29 in Python and explain the approach.
+90,Coding,Medium,Solve coding problem #30 in Python and explain the approach.
+91,Coding,Medium,Solve coding problem #31 in Python and explain the approach.
+92,Coding,Medium,Solve coding problem #32 in Python and explain the approach.
+93,Coding,Medium,Solve coding problem #33 in Python and explain the approach.
+94,Coding,Medium,Solve coding problem #34 in Python and explain the approach.
+95,Coding,Medium,Solve coding problem #35 in Python and explain the approach.
+96,Coding,Medium,Solve coding problem #36 in Python and explain the approach.
+97,Coding,Medium,Solve coding problem #37 in Python and explain the approach.
+98,Coding,Medium,Solve coding problem #38 in Python and explain the approach.
+99,Coding,Medium,Solve coding problem #39 in Python and explain the approach.
+100,Coding,Medium,Solve coding problem #40 in Python and explain the approach.
+101,Coding,Hard,Solve coding problem #41 in Python and explain the approach.
+102,Coding,Hard,Solve coding problem #42 in Python and explain the approach.
+103,Coding,Hard,Solve coding problem #43 in Python and explain the approach.
+104,Coding,Hard,Solve coding problem #44 in Python and explain the approach.
+105,Coding,Hard,Solve coding problem #45 in Python and explain the approach.
+106,Coding,Hard,Solve coding problem #46 in Python and explain the approach.
+107,Coding,Hard,Solve coding problem #47 in Python and explain the approach.
+108,Coding,Hard,Solve coding problem #48 in Python and explain the approach.
+109,Coding,Hard,Solve coding problem #49 in Python and explain the approach.
+110,Coding,Hard,Solve coding problem #50 in Python and explain the approach.
+111,Coding,Hard,Solve coding problem #51 in Python and explain the approach.
+112,Coding,Hard,Solve coding problem #52 in Python and explain the approach.
+113,Coding,Hard,Solve coding problem #53 in Python and explain the approach.
+114,Coding,Hard,Solve coding problem #54 in Python and explain the approach.
+115,Coding,Hard,Solve coding problem #55 in Python and explain the approach.
+116,Coding,Hard,Solve coding problem #56 in Python and explain the approach.
+117,Coding,Hard,Solve coding problem #57 in Python and explain the approach.
+118,Coding,Hard,Solve coding problem #58 in Python and explain the approach.
+119,Coding,Hard,Solve coding problem #59 in Python and explain the approach.
+120,Coding,Hard,Solve coding problem #60 in Python and explain the approach.
+121,Mathematics,Easy,Solve mathematics problem #1 step by step.
+122,Mathematics,Easy,Solve mathematics problem #2 step by step.
+123,Mathematics,Easy,Solve mathematics problem #3 step by step.
+124,Mathematics,Easy,Solve mathematics problem #4 step by step.
+125,Mathematics,Easy,Solve mathematics problem #5 step by step.
+126,Mathematics,Easy,Solve mathematics problem #6 step by step.
+127,Mathematics,Easy,Solve mathematics problem #7 step by step.
+128,Mathematics,Easy,Solve mathematics problem #8 step by step.
+129,Mathematics,Easy,Solve mathematics problem #9 step by step.
+130,Mathematics,Easy,Solve mathematics problem #10 step by step.
+131,Mathematics,Easy,Solve mathematics problem #11 step by step.
+132,Mathematics,Easy,Solve mathematics problem #12 step by step.
+133,Mathematics,Easy,Solve mathematics problem #13 step by step.
+134,Mathematics,Easy,Solve mathematics problem #14 step by step.
+135,Mathematics,Easy,Solve mathematics problem #15 step by step.
+136,Mathematics,Easy,Solve mathematics problem #16 step by step.
+137,Mathematics,Medium,Solve mathematics problem #17 step by step.
+138,Mathematics,Medium,Solve mathematics problem #18 step by step.
+139,Mathematics,Medium,Solve mathematics problem #19 step by step.
+140,Mathematics,Medium,Solve mathematics problem #20 step by step.
+141,Mathematics,Medium,Solve mathematics problem #21 step by step.
+142,Mathematics,Medium,Solve mathematics problem #22 step by step.
+143,Mathematics,Medium,Solve mathematics problem #23 step by step.
+144,Mathematics,Medium,Solve mathematics problem #24 step by step.
+145,Mathematics,Medium,Solve mathematics problem #25 step by step.
+146,Mathematics,Medium,Solve mathematics problem #26 step by step.
+147,Mathematics,Medium,Solve mathematics problem #27 step by step.
+148,Mathematics,Medium,Solve mathematics problem #28 step by step.
+149,Mathematics,Medium,Solve mathematics problem #29 step by step.
+150,Mathematics,Medium,Solve mathematics problem #30 step by step.
+151,Mathematics,Medium,Solve mathematics problem #31 step by step.
+152,Mathematics,Medium,Solve mathematics problem #32 step by step.
+153,Mathematics,Medium,Solve mathematics problem #33 step by step.
+154,Mathematics,Hard,Solve mathematics problem #34 step by step.
+155,Mathematics,Hard,Solve mathematics problem #35 step by step.
+156,Mathematics,Hard,Solve mathematics problem #36 step by step.
+157,Mathematics,Hard,Solve mathematics problem #37 step by step.
+158,Mathematics,Hard,Solve mathematics problem #38 step by step.
+159,Mathematics,Hard,Solve mathematics problem #39 step by step.
+160,Mathematics,Hard,Solve mathematics problem #40 step by step.
+161,Mathematics,Hard,Solve mathematics problem #41 step by step.
+162,Mathematics,Hard,Solve mathematics problem #42 step by step.
+163,Mathematics,Hard,Solve mathematics problem #43 step by step.
+164,Mathematics,Hard,Solve mathematics problem #44 step by step.
+165,Mathematics,Hard,Solve mathematics problem #45 step by step.
+166,Mathematics,Hard,Solve mathematics problem #46 step by step.
+167,Mathematics,Hard,Solve mathematics problem #47 step by step.
+168,Mathematics,Hard,Solve mathematics problem #48 step by step.
+169,Mathematics,Hard,Solve mathematics problem #49 step by step.
+170,Mathematics,Hard,Solve mathematics problem #50 step by step.
+171,Logical Reasoning,Easy,Solve logical reasoning puzzle #1 and justify each inference.
+172,Logical Reasoning,Easy,Solve logical reasoning puzzle #2 and justify each inference.
+173,Logical Reasoning,Easy,Solve logical reasoning puzzle #3 and justify each inference.
+174,Logical Reasoning,Easy,Solve logical reasoning puzzle #4 and justify each inference.
+175,Logical Reasoning,Easy,Solve logical reasoning puzzle #5 and justify each inference.
+176,Logical Reasoning,Easy,Solve logical reasoning puzzle #6 and justify each inference.
+177,Logical Reasoning,Easy,Solve logical reasoning puzzle #7 and justify each inference.
+178,Logical Reasoning,Easy,Solve logical reasoning puzzle #8 and justify each inference.
+179,Logical Reasoning,Easy,Solve logical reasoning puzzle #9 and justify each inference.
+180,Logical Reasoning,Easy,Solve logical reasoning puzzle #10 and justify each inference.
+181,Logical Reasoning,Easy,Solve logical reasoning puzzle #11 and justify each inference.
+182,Logical Reasoning,Easy,Solve logical reasoning puzzle #12 and justify each inference.
+183,Logical Reasoning,Easy,Solve logical reasoning puzzle #13 and justify each inference.
+184,Logical Reasoning,Easy,Solve logical reasoning puzzle #14 and justify each inference.
+185,Logical Reasoning,Easy,Solve logical reasoning puzzle #15 and justify each inference.
+186,Logical Reasoning,Easy,Solve logical reasoning puzzle #16 and justify each inference.
+187,Logical Reasoning,Medium,Solve logical reasoning puzzle #17 and justify each inference.
+188,Logical Reasoning,Medium,Solve logical reasoning puzzle #18 and justify each inference.
+189,Logical Reasoning,Medium,Solve logical reasoning puzzle #19 and justify each inference.
+190,Logical Reasoning,Medium,Solve logical reasoning puzzle #20 and justify each inference.
+191,Logical Reasoning,Medium,Solve logical reasoning puzzle #21 and justify each inference.
+192,Logical Reasoning,Medium,Solve logical reasoning puzzle #22 and justify each inference.
+193,Logical Reasoning,Medium,Solve logical reasoning puzzle #23 and justify each inference.
+194,Logical Reasoning,Medium,Solve logical reasoning puzzle #24 and justify each inference.
+195,Logical Reasoning,Medium,Solve logical reasoning puzzle #25 and justify each inference.
+196,Logical Reasoning,Medium,Solve logical reasoning puzzle #26 and justify each inference.
+197,Logical Reasoning,Medium,Solve logical reasoning puzzle #27 and justify each inference.
+198,Logical Reasoning,Medium,Solve logical reasoning puzzle #28 and justify each inference.
+199,Logical Reasoning,Medium,Solve logical reasoning puzzle #29 and justify each inference.
+200,Logical Reasoning,Medium,Solve logical reasoning puzzle #30 and justify each inference.
+201,Logical Reasoning,Medium,Solve logical reasoning puzzle #31 and justify each inference.
+202,Logical Reasoning,Medium,Solve logical reasoning puzzle #32 and justify each inference.
+203,Logical Reasoning,Medium,Solve logical reasoning puzzle #33 and justify each inference.
+204,Logical Reasoning,Hard,Solve logical reasoning puzzle #34 and justify each inference.
+205,Logical Reasoning,Hard,Solve logical reasoning puzzle #35 and justify each inference.
+206,Logical Reasoning,Hard,Solve logical reasoning puzzle #36 and justify each inference.
+207,Logical Reasoning,Hard,Solve logical reasoning puzzle #37 and justify each inference.
+208,Logical Reasoning,Hard,Solve logical reasoning puzzle #38 and justify each inference.
+209,Logical Reasoning,Hard,Solve logical reasoning puzzle #39 and justify each inference.
+210,Logical Reasoning,Hard,Solve logical reasoning puzzle #40 and justify each inference.
+211,Logical Reasoning,Hard,Solve logical reasoning puzzle #41 and justify each inference.
+212,Logical Reasoning,Hard,Solve logical reasoning puzzle #42 and justify each inference.
+213,Logical Reasoning,Hard,Solve logical reasoning puzzle #43 and justify each inference.
+214,Logical Reasoning,Hard,Solve logical reasoning puzzle #44 and justify each inference.
+215,Logical Reasoning,Hard,Solve logical reasoning puzzle #45 and justify each inference.
+216,Logical Reasoning,Hard,Solve logical reasoning puzzle #46 and justify each inference.
+217,Logical Reasoning,Hard,Solve logical reasoning puzzle #47 and justify each inference.
+218,Logical Reasoning,Hard,Solve logical reasoning puzzle #48 and justify each inference.
+219,Logical Reasoning,Hard,Solve logical reasoning puzzle #49 and justify each inference.
+220,Logical Reasoning,Hard,Solve logical reasoning puzzle #50 and justify each inference.
+221,Summarization,Easy,Summarize the provided article #1 into five bullet points.
+222,Summarization,Easy,Summarize the provided article #2 into five bullet points.
+223,Summarization,Easy,Summarize the provided article #3 into five bullet points.
+224,Summarization,Easy,Summarize the provided article #4 into five bullet points.
+225,Summarization,Easy,Summarize the provided article #5 into five bullet points.
+226,Summarization,Easy,Summarize the provided article #6 into five bullet points.
+227,Summarization,Easy,Summarize the provided article #7 into five bullet points.
+228,Summarization,Easy,Summarize the provided article #8 into five bullet points.
+229,Summarization,Easy,Summarize the provided article #9 into five bullet points.
+230,Summarization,Easy,Summarize the provided article #10 into five bullet points.
+231,Summarization,Easy,Summarize the provided article #11 into five bullet points.
+232,Summarization,Easy,Summarize the provided article #12 into five bullet points.
+233,Summarization,Easy,Summarize the provided article #13 into five bullet points.
+234,Summarization,Medium,Summarize the provided article #14 into five bullet points.
+235,Summarization,Medium,Summarize the provided article #15 into five bullet points.
+236,Summarization,Medium,Summarize the provided article #16 into five bullet points.
+237,Summarization,Medium,Summarize the provided article #17 into five bullet points.
+238,Summarization,Medium,Summarize the provided article #18 into five bullet points.
+239,Summarization,Medium,Summarize the provided article #19 into five bullet points.
+240,Summarization,Medium,Summarize the provided article #20 into five bullet points.
+241,Summarization,Medium,Summarize the provided article #21 into five bullet points.
+242,Summarization,Medium,Summarize the provided article #22 into five bullet points.
+243,Summarization,Medium,Summarize the provided article #23 into five bullet points.
+244,Summarization,Medium,Summarize the provided article #24 into five bullet points.
+245,Summarization,Medium,Summarize the provided article #25 into five bullet points.
+246,Summarization,Medium,Summarize the provided article #26 into five bullet points.
+247,Summarization,Hard,Summarize the provided article #27 into five bullet points.
+248,Summarization,Hard,Summarize the provided article #28 into five bullet points.
+249,Summarization,Hard,Summarize the provided article #29 into five bullet points.
+250,Summarization,Hard,Summarize the provided article #30 into five bullet points.
+251,Summarization,Hard,Summarize the provided article #31 into five bullet points.
+252,Summarization,Hard,Summarize the provided article #32 into five bullet points.
+253,Summarization,Hard,Summarize the provided article #33 into five bullet points.
+254,Summarization,Hard,Summarize the provided article #34 into five bullet points.
+255,Summarization,Hard,Summarize the provided article #35 into five bullet points.
+256,Summarization,Hard,Summarize the provided article #36 into five bullet points.
+257,Summarization,Hard,Summarize the provided article #37 into five bullet points.
+258,Summarization,Hard,Summarize the provided article #38 into five bullet points.
+259,Summarization,Hard,Summarize the provided article #39 into five bullet points.
+260,Summarization,Hard,Summarize the provided article #40 into five bullet points.
+261,Translation,Easy,Translate the provided text #1 into English while preserving meaning.
+262,Translation,Easy,Translate the provided text #2 into English while preserving meaning.
+263,Translation,Easy,Translate the provided text #3 into English while preserving meaning.
+264,Translation,Easy,Translate the provided text #4 into English while preserving meaning.
+265,Translation,Easy,Translate the provided text #5 into English while preserving meaning.
+266,Translation,Easy,Translate the provided text #6 into English while preserving meaning.
+267,Translation,Easy,Translate the provided text #7 into English while preserving meaning.
+268,Translation,Easy,Translate the provided text #8 into English while preserving meaning.
+269,Translation,Easy,Translate the provided text #9 into English while preserving meaning.
+270,Translation,Easy,Translate the provided text #10 into English while preserving meaning.
+271,Translation,Easy,Translate the provided text #11 into English while preserving meaning.
+272,Translation,Easy,Translate the provided text #12 into English while preserving meaning.
+273,Translation,Easy,Translate the provided text #13 into English while preserving meaning.
+274,Translation,Medium,Translate the provided text #14 into English while preserving meaning.
+275,Translation,Medium,Translate the provided text #15 into English while preserving meaning.
+276,Translation,Medium,Translate the provided text #16 into English while preserving meaning.
+277,Translation,Medium,Translate the provided text #17 into English while preserving meaning.
+278,Translation,Medium,Translate the provided text #18 into English while preserving meaning.
+279,Translation,Medium,Translate the provided text #19 into English while preserving meaning.
+280,Translation,Medium,Translate the provided text #20 into English while preserving meaning.
+281,Translation,Medium,Translate the provided text #21 into English while preserving meaning.
+282,Translation,Medium,Translate the provided text #22 into English while preserving meaning.
+283,Translation,Medium,Translate the provided text #23 into English while preserving meaning.
+284,Translation,Medium,Translate the provided text #24 into English while preserving meaning.
+285,Translation,Medium,Translate the provided text #25 into English while preserving meaning.
+286,Translation,Medium,Translate the provided text #26 into English while preserving meaning.
+287,Translation,Hard,Translate the provided text #27 into English while preserving meaning.
+288,Translation,Hard,Translate the provided text #28 into English while preserving meaning.
+289,Translation,Hard,Translate the provided text #29 into English while preserving meaning.
+290,Translation,Hard,Translate the provided text #30 into English while preserving meaning.
+291,Translation,Hard,Translate the provided text #31 into English while preserving meaning.
+292,Translation,Hard,Translate the provided text #32 into English while preserving meaning.
+293,Translation,Hard,Translate the provided text #33 into English while preserving meaning.
+294,Translation,Hard,Translate the provided text #34 into English while preserving meaning.
+295,Translation,Hard,Translate the provided text #35 into English while preserving meaning.
+296,Translation,Hard,Translate the provided text #36 into English while preserving meaning.
+297,Translation,Hard,Translate the provided text #37 into English while preserving meaning.
+298,Translation,Hard,Translate the provided text #38 into English while preserving meaning.
+299,Translation,Hard,Translate the provided text #39 into English while preserving meaning.
+300,Translation,Hard,Translate the provided text #40 into English while preserving meaning.
+301,Information Extraction,Easy,"Extract entities, dates, and locations from document #1."
+302,Information Extraction,Easy,"Extract entities, dates, and locations from document #2."
+303,Information Extraction,Easy,"Extract entities, dates, and locations from document #3."
+304,Information Extraction,Easy,"Extract entities, dates, and locations from document #4."
+305,Information Extraction,Easy,"Extract entities, dates, and locations from document #5."
+306,Information Extraction,Easy,"Extract entities, dates, and locations from document #6."
+307,Information Extraction,Easy,"Extract entities, dates, and locations from document #7."
+308,Information Extraction,Easy,"Extract entities, dates, and locations from document #8."
+309,Information Extraction,Easy,"Extract entities, dates, and locations from document #9."
+310,Information Extraction,Easy,"Extract entities, dates, and locations from document #10."
+311,Information Extraction,Easy,"Extract entities, dates, and locations from document #11."
+312,Information Extraction,Easy,"Extract entities, dates, and locations from document #12."
+313,Information Extraction,Easy,"Extract entities, dates, and locations from document #13."
+314,Information Extraction,Medium,"Extract entities, dates, and locations from document #14."
+315,Information Extraction,Medium,"Extract entities, dates, and locations from document #15."
+316,Information Extraction,Medium,"Extract entities, dates, and locations from document #16."
+317,Information Extraction,Medium,"Extract entities, dates, and locations from document #17."
+318,Information Extraction,Medium,"Extract entities, dates, and locations from document #18."
+319,Information Extraction,Medium,"Extract entities, dates, and locations from document #19."
+320,Information Extraction,Medium,"Extract entities, dates, and locations from document #20."
+321,Information Extraction,Medium,"Extract entities, dates, and locations from document #21."
+322,Information Extraction,Medium,"Extract entities, dates, and locations from document #22."
+323,Information Extraction,Medium,"Extract entities, dates, and locations from document #23."
+324,Information Extraction,Medium,"Extract entities, dates, and locations from document #24."
+325,Information Extraction,Medium,"Extract entities, dates, and locations from document #25."
+326,Information Extraction,Medium,"Extract entities, dates, and locations from document #26."
+327,Information Extraction,Hard,"Extract entities, dates, and locations from document #27."
+328,Information Extraction,Hard,"Extract entities, dates, and locations from document #28."
+329,Information Extraction,Hard,"Extract entities, dates, and locations from document #29."
+330,Information Extraction,Hard,"Extract entities, dates, and locations from document #30."
+331,Information Extraction,Hard,"Extract entities, dates, and locations from document #31."
+332,Information Extraction,Hard,"Extract entities, dates, and locations from document #32."
+333,Information Extraction,Hard,"Extract entities, dates, and locations from document #33."
+334,Information Extraction,Hard,"Extract entities, dates, and locations from document #34."
+335,Information Extraction,Hard,"Extract entities, dates, and locations from document #35."
+336,Information Extraction,Hard,"Extract entities, dates, and locations from document #36."
+337,Information Extraction,Hard,"Extract entities, dates, and locations from document #37."
+338,Information Extraction,Hard,"Extract entities, dates, and locations from document #38."
+339,Information Extraction,Hard,"Extract entities, dates, and locations from document #39."
+340,Information Extraction,Hard,"Extract entities, dates, and locations from document #40."
+341,Hallucination Tests,Easy,"Answer factual question #1; if uncertain, explicitly say you don't know."
+342,Hallucination Tests,Easy,"Answer factual question #2; if uncertain, explicitly say you don't know."
+343,Hallucination Tests,Easy,"Answer factual question #3; if uncertain, explicitly say you don't know."
+344,Hallucination Tests,Easy,"Answer factual question #4; if uncertain, explicitly say you don't know."
+345,Hallucination Tests,Easy,"Answer factual question #5; if uncertain, explicitly say you don't know."
+346,Hallucination Tests,Easy,"Answer factual question #6; if uncertain, explicitly say you don't know."
+347,Hallucination Tests,Easy,"Answer factual question #7; if uncertain, explicitly say you don't know."
+348,Hallucination Tests,Easy,"Answer factual question #8; if uncertain, explicitly say you don't know."
+349,Hallucination Tests,Easy,"Answer factual question #9; if uncertain, explicitly say you don't know."
+350,Hallucination Tests,Easy,"Answer factual question #10; if uncertain, explicitly say you don't know."
+351,Hallucination Tests,Medium,"Answer factual question #11; if uncertain, explicitly say you don't know."
+352,Hallucination Tests,Medium,"Answer factual question #12; if uncertain, explicitly say you don't know."
+353,Hallucination Tests,Medium,"Answer factual question #13; if uncertain, explicitly say you don't know."
+354,Hallucination Tests,Medium,"Answer factual question #14; if uncertain, explicitly say you don't know."
+355,Hallucination Tests,Medium,"Answer factual question #15; if uncertain, explicitly say you don't know."
+356,Hallucination Tests,Medium,"Answer factual question #16; if uncertain, explicitly say you don't know."
+357,Hallucination Tests,Medium,"Answer factual question #17; if uncertain, explicitly say you don't know."
+358,Hallucination Tests,Medium,"Answer factual question #18; if uncertain, explicitly say you don't know."
+359,Hallucination Tests,Medium,"Answer factual question #19; if uncertain, explicitly say you don't know."
+360,Hallucination Tests,Medium,"Answer factual question #20; if uncertain, explicitly say you don't know."
+361,Hallucination Tests,Hard,"Answer factual question #21; if uncertain, explicitly say you don't know."
+362,Hallucination Tests,Hard,"Answer factual question #22; if uncertain, explicitly say you don't know."
+363,Hallucination Tests,Hard,"Answer factual question #23; if uncertain, explicitly say you don't know."
+364,Hallucination Tests,Hard,"Answer factual question #24; if uncertain, explicitly say you don't know."
+365,Hallucination Tests,Hard,"Answer factual question #25; if uncertain, explicitly say you don't know."
+366,Hallucination Tests,Hard,"Answer factual question #26; if uncertain, explicitly say you don't know."
+367,Hallucination Tests,Hard,"Answer factual question #27; if uncertain, explicitly say you don't know."
+368,Hallucination Tests,Hard,"Answer factual question #28; if uncertain, explicitly say you don't know."
+369,Hallucination Tests,Hard,"Answer factual question #29; if uncertain, explicitly say you don't know."
+370,Hallucination Tests,Hard,"Answer factual question #30; if uncertain, explicitly say you don't know."
+371,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #1.
+372,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #2.
+373,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #3.
+374,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #4.
+375,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #5.
+376,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #6.
+377,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #7.
+378,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #8.
+379,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #9.
+380,Edge Cases,Easy,Respond safely and robustly to edge-case prompt #10.
+381,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #11.
+382,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #12.
+383,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #13.
+384,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #14.
+385,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #15.
+386,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #16.
+387,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #17.
+388,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #18.
+389,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #19.
+390,Edge Cases,Medium,Respond safely and robustly to edge-case prompt #20.
+391,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #21.
+392,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #22.
+393,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #23.
+394,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #24.
+395,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #25.
+396,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #26.
+397,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #27.
+398,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #28.
+399,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #29.
+400,Edge Cases,Hard,Respond safely and robustly to edge-case prompt #30.
